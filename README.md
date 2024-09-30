@@ -21,3 +21,6 @@ L'application *HelloToast* a été développée en utilisant un ConstraintLayout
 1. Clonez le projet.
 2. Ouvrez le projet dans Android Studio.
 3. Lancez l'application sur un émulateur ou un appareil Android.
+## Video démonstratif
+[exo1zineb.webm](https://github.com/user-attachments/assets/d43e8938-5505-4d1c-b847-ce63a951565a)
+
