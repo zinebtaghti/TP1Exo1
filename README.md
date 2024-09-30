@@ -11,8 +11,6 @@ L'application *HelloToast* a été développée en utilisant un ConstraintLayout
 - Le *compteur* commence à zéro et s'incrémente de 1 à chaque clic sur le bouton "Count".
 - L'application est conçue à l'aide de ConstraintLayout pour faciliter un positionnement flexible des composants UI.
 
-## Capture d'écran
-![Hello Toast - ConstraintLayout](image.png)
 
 ## Technologies utilisées
 - *Langage* : Java (Android SDK)
